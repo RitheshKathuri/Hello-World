@@ -2,6 +2,5 @@
 # Hello-World
 - Just Another repository
 + Hubot here,I like Node.Js and coffee
-  them far superior to earth tacos
-  how is the weekend going on man
+  them far superior to earth tacos, how is the weekend going on man
 
